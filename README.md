@@ -1,8 +1,8 @@
 # Aluno
-* `<Luiz Henrique Yuji Delgado Oda>`
+* `Luiz Henrique Yuji Delgado Oda`
 
 # RA
-* `<247255>`
+* `247255`
 
 # Curso
-* `<Engenharia da Computação>`
+* `Engenharia da Computação`
