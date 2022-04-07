@@ -1,3 +1,5 @@
+package pt.c02oo.s02classe.s03lombriga;
+
 public class AppLab03 {
     public static void main(String args[]) {
         String aquario = "080403MCMVM";

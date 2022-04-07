@@ -1,3 +1,5 @@
+package pt.c02oo.s02classe.s03lombriga;
+
 public class AquarioLombriga {
     int head, l_size, a_size, dir;
     AquarioLombriga(int a_size, int l_size, int ini) {
